@@ -1,6 +1,6 @@
-package factory.impl;
+package factory.simple.impl;
 
-import factory.Operation;
+import factory.simple.Operation;
 
 /**
  * Created by Imiracle Lee on 2017/9/4.

@@ -1,4 +1,4 @@
-package factory;
+package factory.simple;
 
 /**
  * Created by Imiracle Lee on 2017/9/4.

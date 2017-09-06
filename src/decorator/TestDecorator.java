@@ -11,7 +11,7 @@ public class TestDecorator {
 
         TShirts tShirts = new TShirts();
         BigTrouser bigTrouser = new BigTrouser();
-
+        //进行装饰
         tShirts.decorate(person);
         bigTrouser.decorate(tShirts);
         bigTrouser.show();

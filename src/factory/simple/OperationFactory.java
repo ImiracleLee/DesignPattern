@@ -1,9 +1,9 @@
-package factory;
+package factory.simple;
 
-import factory.impl.OperationAdd;
-import factory.impl.OperationDiv;
-import factory.impl.OperationMuti;
-import factory.impl.OperationSub;
+import factory.simple.impl.OperationAdd;
+import factory.simple.impl.OperationDiv;
+import factory.simple.impl.OperationMuti;
+import factory.simple.impl.OperationSub;
 
 /**
  * Created by Imiracle Lee on 2017/9/4.
